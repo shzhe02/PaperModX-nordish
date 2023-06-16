@@ -13,3 +13,4 @@ Additionally, a fix was implemented for the header colors as there was a bug whe
 ### Helpful links:
 
 [PaperModX documentation](https://reorx.github.io/hugo-PaperModX/)
+[Demonstrator site (my blog)](https://shzhe02.com/)
