@@ -9,21 +9,21 @@
     --radius: 8px;
     --monospace: "Lucida Console", Monaco, "Consolas", monospace;
 
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --primary-dim: rgb(60, 60, 60);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(158, 158, 158);
-    --tertiary-bg: rgb(214, 214, 214);
-    --content: rgb(31, 31, 31);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
-    --link-background-color: #e8e3f7;
+    --theme: #ffffff;
+    --entry: #ffffff;
+    --primary: #2e3440;
+    --primary-dim: #434c5e;
+    --secondary: #4c566a;
+    --tertiary: #d8dee9;
+    --tertiary-bg: #d8dee9;
+    --content: #3b4252;
+    --code-bg: #eceff4;
+    --border: #4c566a;
+     --link-background-color: #e8e3f7;
     --link-color: var(--primary);
-    --link-hover-color: #573eaa;
+    --link-hover-color: #5e81ac;
     --link-underline-shadow: 0 1px 0 var(--link-color);
-    --link-hover-underline-color: #6549c0;
+    --link-hover-underline-color: #5e81ac;
     --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
     --link-transition: all 0.3s ease;
     --line-yellow: url("data:image/svg+xml;charset=utf-8,%3Csvg preserveAspectRatio='none' width='120' height='6' viewBox='0 0 120 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M119 0.8C60 4 50-0.5 1 1.5' stroke='%23fc0' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
@@ -40,22 +40,24 @@
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --primary-dim: rgb(186, 186, 186);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(123, 124, 124);
-    --tertiary-bg: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
-    --link-background-color: #5242746d;
+    --theme: #22272F;
+    --entry: #2e3440;
+    --primary: #e5e9f0;
+    --primary-dim: #d8dee9;
+    --secondary: #CBD3E2;
+    --tertiary: #2e3440;
+    --tertiary-bg: #2e3440;
+    --content: #eceff4;
+    --code-bg: #2e3440;
+    --border: #22272F;
+    --link-background-color: #5e81ac;
     --link-color: var(--primary);
-    --link-hover-color: #876fd6;
+    --link-hover-color: #5e81ac;
     --link-underline-shadow: 0 1px 0 var(--link-color);
     --link-hover-underline-color: var(--link-hover-color);
     --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+    --signature: var(--primary);
+    --signature-bg: var(--secondary);
 }
 
 .list-page {
