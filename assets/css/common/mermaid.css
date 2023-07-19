@@ -1,5 +1,5 @@
-.mermaid
-{
-  fill: var(--tertiary);
-  stroke: var(--border);  
+.mermaid {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px 25px 0px
 }
