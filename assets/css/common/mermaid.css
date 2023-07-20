@@ -9,7 +9,7 @@
     stroke: var(--content) !important;
 }
 
-.mermaid .cluster {
+.mermaid .cluster rect {
     fill: var(--theme) !important;
 }
 
