@@ -7,5 +7,8 @@
 .default > rect {
     fill: var(--tertiary) !important;
     stroke: var(--content) !important;
+}
+
+.mermaid .edgeLabel {
     background-color: var(--tertiary) !important;
 }
