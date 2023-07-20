@@ -9,6 +9,10 @@
     stroke: var(--content) !important;
 }
 
+.mermaid .node rect {
+    stroke: var(--border) !important;
+}
+
 .mermaid .label text,
 .mermaid span,
 .mermaid p {
