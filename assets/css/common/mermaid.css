@@ -9,7 +9,7 @@
     stroke: var(--content) !important;
 }
 
-.mermaid .label text {
+.mermaid .label {
     color: var(--content) !important;
 }
 
