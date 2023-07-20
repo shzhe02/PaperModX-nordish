@@ -1,0 +1,4 @@
+.timeline-comment .comment {
+  background-color: var(--code-bg) !important;
+  border: var(--border) !important;
+}
