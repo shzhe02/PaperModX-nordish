@@ -4,6 +4,6 @@
     margin: 10px 0px 25px 0px
 }
 .default > rect {
-    fill: var(--tertiary);
-    stroke: var(--content);
+    fill: var(--tertiary) !important;
+    stroke: var(--content) !important;
 }
