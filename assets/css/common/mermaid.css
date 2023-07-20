@@ -9,6 +9,10 @@
     stroke: var(--content) !important;
 }
 
+.mermaid .cluster {
+    fill: var(--theme) !important;
+}
+
 .mermaid .edgeLabel {
     background-color: var(--tertiary) !important;
 }
