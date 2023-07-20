@@ -9,6 +9,10 @@
     stroke: var(--content) !important;
 }
 
+.mermaid .label text {
+    color: var(--content) !important;
+}
+
 .mermaid .cluster rect {
     fill: var(--theme) !important;
 }
